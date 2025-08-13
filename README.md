@@ -1,5 +1,3 @@
-[![CI](https://github.com/monad-developers/foundry-monad/actions/workflows/test.yml/badge.svg)](https://github.com/monad-developers/foundry-monad/actions/workflows/test.yml)
-
 ## Monad-flavored Foundry
 
 > [!NOTE]
@@ -90,7 +88,7 @@ forge verify-contract \
 ```
 
 ### Cast
-[Cast reference](https://book.getfoundry.sh/cast/)
+[Cast reference](https://getfoundry.sh/cast/overview)
 ```shell
 cast <subcommand>
 ```
